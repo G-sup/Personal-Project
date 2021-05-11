@@ -1,5 +1,6 @@
+# Preview 
+![p1f5cs9jpu65m1r10jph5d71nc4-15](https://user-images.githubusercontent.com/76672819/117760403-87360100-b260-11eb-9ac3-81d78bd3a2b4.jpg)
 # dcgan
-
 ![p1f5cs9jpu65m1r10jph5d71nc4-0](https://user-images.githubusercontent.com/76672819/117760372-7d140280-b260-11eb-94b5-dbc33d9b9349.jpg)
 ![p1f5cs9jpu65m1r10jph5d71nc4-1](https://user-images.githubusercontent.com/76672819/117760375-7e452f80-b260-11eb-9a2e-dba04758aca7.jpg)
 ![p1f5cs9jpu65m1r10jph5d71nc4-2](https://user-images.githubusercontent.com/76672819/117760377-7eddc600-b260-11eb-8960-58f9559f2df0.jpg)
@@ -16,4 +17,3 @@
 ![p1f5cs9jpu65m1r10jph5d71nc4-13](https://user-images.githubusercontent.com/76672819/117760400-8604d400-b260-11eb-9776-d7e25f441740.jpg)
 ![p1f5cs9jpu65m1r10jph5d71nc4-14](https://user-images.githubusercontent.com/76672819/117760401-869d6a80-b260-11eb-9a05-2e432adf5159.jpg)
 ![p1f5cs9jpu65m1r10jph5d71nc4-15](https://user-images.githubusercontent.com/76672819/117760403-87360100-b260-11eb-9ac3-81d78bd3a2b4.jpg)
-![p1f5cs9jpu65m1r10jph5d71nc4-16](https://user-images.githubusercontent.com/76672819/117760405-87360100-b260-11eb-9a64-976280312cb8.jpg)
